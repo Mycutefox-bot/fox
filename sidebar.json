@@ -2,7 +2,7 @@
   "header": {
     "logo": {
       "type": "txt",
-      "content": "Easy WIKI",
+      "content": "FOXBOT WIKI",
       "width": "100px",
       "height": "50px"
     },
@@ -35,4 +35,5 @@
       "title": "群规",
       "link": "rule.md"
     },
+
 
