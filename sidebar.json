@@ -31,17 +31,18 @@
       "title": "友情赞助",
       "link": "friends.md"
     },
-     {
+     {test
       "title": "Q&A",
       "children": [
         {
-          "title": "怎么部署和这个一样的wiki",
+          "title": "test",
           "link": "wiki.md"
         }
       ]
     }
   ]
 }
+
 
 
 
