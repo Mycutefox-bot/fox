@@ -27,12 +27,21 @@
       "title": "帮助",
       "link": "helps.md"
     },
-     {
-      "title": "友情赞助",
-      "link": "friends.md"
-    }
-  ]
+    {
+      "title": "示例文档",
+      "children": [
+        {
+          "title": "API 接口",
+          "link": "api.md"
+        },
+        {
+          "title": "教程",
+          "link": "qa.md"
+        }
+       ]
+     }
 }
+
 
 
 
