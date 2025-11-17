@@ -27,6 +27,10 @@
       "title": "帮助",
       "link": "helps.md"
     },
+      {
+      "title": "管理/运维",
+      "link": "person.md"
+    },
     {
       "title": "鸣谢名单",
       "children": [
@@ -42,4 +46,5 @@
       }
   ]
 }
+
 
