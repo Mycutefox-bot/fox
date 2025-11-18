@@ -31,6 +31,10 @@
       "title": "管理/运维",
       "link": "person.md"
     },
+     {
+      "title": "咕咕伯特-筹划中",
+      "link": "GuGuBot.md"
+    },
     {
       "title": "鸣谢名单",
       "children": [
@@ -46,5 +50,6 @@
       }
   ]
 }
+
 
 
