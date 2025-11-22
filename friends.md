@@ -18,7 +18,7 @@
 
 - [雨云Rainyun](https://www.rainyun.com/)提供的 **云计算支持**
 
-- 狐狐伯特&小窝的群U们对 **狐狐伯特的测试**
+- <a href="https://qm.qq.com/q/OsR4DYFYac">狐狐伯特&小窝</a>的群U们对 **狐狐伯特的测试**
 
 - 雪球Bqiu提供的 [EasyWIKI](https://github.com/Snowball-Bqiu/easywiki)
 
@@ -26,3 +26,4 @@
 
 
 > LLM为Large Language Model（大语言模型）的缩写，简称LLM，也就是狐狐伯特的驱动内核（灵魂）
+
