@@ -20,6 +20,8 @@
 
 - 狐狐伯特&小窝的群U们对 **狐狐伯特的测试**
 
+- 雪球Bqiu提供的 [狐狐伯特WIKI](https://github.com/Snowball-Bqiu/easywiki)
+
 -----------------
 
-> LLM为Large Language Model（大语言模型）的缩写，简称LLM
+> LLM为Large Language Model（大语言模型）的缩写，简称LLM 也就是狐狐伯特的驱动内核（灵魂）
