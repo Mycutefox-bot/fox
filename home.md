@@ -26,5 +26,6 @@
 
 - 狐狐伯特的WIKI是基于[EASYWIKI](https://github.com/Snowball-Bqiu/easywiki)搭建的，感谢雪球Bqiu的开源贡献！
 
-如果您想要体验狐狐伯特的功能，请加入狐狐伯特的
+> 如果您想要体验狐狐伯特的功能，请加入狐狐伯特的
 <a href="https://qm.qq.com/q/OsR4DYFYac">QQ群</a>
+
