@@ -16,27 +16,35 @@
   },
   "menu": [
     {
-      "title": "欢迎",
+      "title": "🎉欢迎",
       "link": "home.md"
     },
     {
-      "title": "介绍",
-      "link": "introduce.md"
+      "title": "☕狐狐伯特介绍",
+      "link": "introduce_bot.md"
     },
     {
-      "title": "帮助",
+      "title": "🦊Kemomimi介绍",
+      "link": "introduce_kmm.md"
+    },
+    {
+      "title": "❓帮助",
       "link": "helps.md"
     },
+    {
+      "title": "📣公告",
+      "link": "calls.md"
+    },
       {
-      "title": "管理/运维",
+      "title": "✨管理/运维",
       "link": "person.md"
     },
      {
-      "title": "咕咕咕",
+      "title": "👀咕咕咕",
       "link": "gugu.md"
     },
     {
-      "title": "鸣谢名单",
+      "title": "🎁鸣谢名单",
       "children": [
         {
           "title": "技术支持",
@@ -50,6 +58,7 @@
       }
   ]
 }
+
 
 
 
