@@ -1,6 +1,6 @@
-# 欢迎来到狐狐伯特WIKI
+# 🎉欢迎来到狐狐伯特WIKI🎉
 
-> 超可爱kemomimi酱！
+> **超可爱kemomimi酱！**
 
 ![alt text](img/image1.webp)
 
@@ -10,7 +10,7 @@
 
 - 嗷呜！如果你点到了这里，说明你已经知道怎么拉伯特进群啦~
 
-- 如果你不知道的话可以联系管理员2659063802或者发邮件到lm-2025@outlook.com ！
+- 如果你不知道的话可以联系管理员2659063802或者发邮件到lm-2025@outlook.com！
 
 ## 关于狐务器
 狐务器是狐狐伯特的的家啦笨笨^0^ 狐狐住的地方4室2厨2卫哦！家里面还有60平方的大花园！是一个在宁波的小house哦！如果您想去狐狐的家，可以联系管理员2659063802或者发邮件到lm-2025@outlook.com ！（当然如果想要帮狐狐住上更大的房子也可以捏）
@@ -26,6 +26,7 @@
 
 - 狐狐伯特的WIKI是基于[EASYWIKI](https://github.com/Snowball-Bqiu/easywiki)搭建的，感谢雪球Bqiu的开源贡献！
 
-> 如果您想要体验狐狐伯特的功能，请加入狐狐伯特的
-<a href="https://qm.qq.com/q/OsR4DYFYac">QQ群</a>
+> 如果您想要抢先体验狐狐伯特的功能，请加入狐狐伯特的
+<a href="https://qm.qq.com/q/OsR4DYFYac">QQ小窝群</a>
+
 
