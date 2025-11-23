@@ -4,6 +4,8 @@
 
 ## 点子列表- *I have a plan！*
 
+![alt text](img/plan.webp)
+
 ### 应该能完成的♥
 
 - 咕咕伯特（GuGuBot-Core-CN）：新建文件夹阶段
@@ -25,5 +27,6 @@
 - 狐狐伯特玩给木：在训练啦~但是有点难
   
 - 狐狐伯特web版（FoxBot-Core-Web-CN）：开玩笑（真的
+
 
 
