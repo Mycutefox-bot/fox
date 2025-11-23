@@ -1,6 +1,6 @@
-# kemomimi是什么？
+# kemomimi介绍
 
-## kemomimi介绍
+## kemomimi是什么？
 
 - 兽耳酱（日语：ケモミミちゃん）是画师[naga u/ながユー](https://www.pixiv.net/member.php?id=2509595)的原创角色。画师画的最多的就是各色卡通兽耳娘了
  
