@@ -2,7 +2,7 @@
   "header": {
     "logo": {
       "type": "txt",
-      "content": "FoxBotWIKI",
+      "content": "✨FoxBotWIKI",
       "width": "100px",
       "height": "50px"
     },
@@ -58,6 +58,7 @@
       }
   ]
 }
+
 
 
 
