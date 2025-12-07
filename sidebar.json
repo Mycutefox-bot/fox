@@ -35,6 +35,10 @@
       "title": "-📢公告",
       "link": "calls.md"
     },
+        {
+      "title": "-❤赞助者名单",
+      "link": "money.md"
+    },
       {
       "title": "-✨管理/运维",
       "link": "person.md"
@@ -51,13 +55,14 @@
           "link": "friends.md"
         },
         {
-          "title": "赞助者",
-          "link": "money.md"
+          "title": "赞助说明",
+          "link": "mi.md"
         }
        ]
       }
   ]
 }
+
 
 
 
