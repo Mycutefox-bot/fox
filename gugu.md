@@ -8,9 +8,9 @@
 
 ### 应该能完成的♥
 
-- 咕咕伯特（GuGuBot-Core-CN）：新建文件夹阶段
+- 咕咕伯特（GuGuBot-Core-CN）：搁置阶段
 
-- 狐狐伯特Core英文节点（FoxBot-Core-EN）：策划阶段
+- 狐狐伯特Core英文节点（FoxBot-Core-EN）：已实现
   
 - 狐狐伯特聪明模式（FoxBot-Clever-CN）：策划阶段
 
@@ -27,6 +27,7 @@
 - 狐狐伯特玩给木：在训练啦~但是有点难
   
 - 狐狐伯特web版（FoxBot-Core-Web-CN）：开玩笑（真的
+
 
 
 
