@@ -16,7 +16,7 @@
 
 - 耳朵似乎很硬 *（能刺破手机箱子保险箱等物品，似乎可以用来攻击）*
 
-![alt text](https://cdn.jsdmirror.com/gh/Mycutefox-bot/fox@main/immg/image4.webp)
+![alt text](https://cdn.jsdmirror.com/gh/Mycutefox-bot/fox@main/img/image4.webp)
 
 - 在部分情况下会变成有机物/无机物，并根据部分情况变化耳朵以及尾巴的样子 *（默认为狐耳）*
 
