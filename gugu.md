@@ -4,7 +4,7 @@
 
 ## 点子列表- *I have a plan！*
 
-![alt text](img/plan.webp)
+![alt text](https://cdn.jsdmirror.com/gh/Mycutefox-bot/fox@main/img/plan.webp)
 
 ### 应该能完成的♥
 

@@ -2,7 +2,7 @@
 
 > **超可爱kemomimi酱！**
 
-![alt text](img/image1.webp)
+![alt text](https://cdn.jsdmirror.com/gh/Mycutefox-bot/fox@main/img/image1.webp)
 
 ------------
 
@@ -14,7 +14,7 @@
 
 ## 关于狐务器
 狐务器是狐狐伯特的的家啦笨笨^0^ 狐狐住的地方4室2厨2卫哦！家里面还有60平方的大花园！是一个在宁波的小house哦！如果您想去狐狐的家，可以联系管理员2659063802或者发邮件到lm-2025@outlook.com ！（当然如果想要帮狐狐住上更大的房子也可以捏）
-![alt text](img/15852048-e684-40f5-8841-4e3683e69dcf.avif)
+![alt text](https://cdn.jsdmirror.com/gh/Mycutefox-bot/fox@main/img/15852048-e684-40f5-8841-4e3683e69dcf.avif)
 
 ## 关于赞助
 
