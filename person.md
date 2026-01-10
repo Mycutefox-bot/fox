@@ -2,17 +2,24 @@
 
 ### 仅限**Core节点**
 
-1.[Leostam](https://space.bilibili.com/550869069?spm_id_from=333.337.0.0) **首席管理员/运维** 
+1.[Leostam](https://space.bilibili.com/550869069?spm_id_from=333.337.0.0) **首席负责人** 
 
-2.Amazing **管理员**
+2.Amazing **副负责人**
 
-3.[雪球Bqiu](https://www.bqiu.top) **运维/管理员**
+3.[雪球Bqiu](https://www.bqiu.top) **运维组成员**
 
-4.任素墨 **LLM负责人/管理员**
+4.任素墨 **LLM负责人/运维组成员**
+
+5.橘雪莉 **管理组成员**
+
+6.SAMA小姐 **管理组成员**
+
+7.青柠 **管理组成员**
 
 ---------------------------------
 
 > 合作请联系QQ:2659063802
+
 
 
 
