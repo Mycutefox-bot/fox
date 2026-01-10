@@ -14,7 +14,7 @@
 
 -狐狐伯特Core节点，全称**狐狐伯特QQ端核心节点**，英文名**FoxBot-Core-QQ-CN/EN/JP**
 
-- 狐狐伯特是由Leostam和Amazing主持的LLM社交聊天机器人,在kemomimi为原型的基础上添加性格制成的（
+- 狐狐伯特是由Leostam和Amazing主持的LLM聊天社交机器人,在kemomimi为原型的基础上制成的
 
 - 狐狐伯特目前为分布式节点，共有四（五）个
 
