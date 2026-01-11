@@ -6,6 +6,15 @@
 
 ![alt text](https://cdn.jsdmirror.com/gh/Mycutefox-bot/fox@main/img/plan.webp)
 
+### 已完成的♥
+
+| 项目名称           | 状态   | 项目描述                | 项目地址                             |
+| ------------------ | ------ | ----------------------- | ------------------------------------ |
+| Fox Img Random API | 测试中 | 基于nodejs编写的随机API | https://random-img-api.qiu.indevs.in |
+| IMHO               | 上线   | 基于PHP编写的图床       | https://imho.top                     |
+
+
+
 ### 应该能完成的♥
 
 - 咕咕伯特（GuGuBot-Core-CN）：已完成未实装
