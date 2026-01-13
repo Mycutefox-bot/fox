@@ -1,6 +1,7 @@
 # 🎉欢迎来到狐狐伯特WIKI🎉
 
-> **超可爱kemomimi酱！**
+
+> **超可爱kemomimi酱！**          ——Leostam
 
 ![alt text](https://cdn.jsdmirror.com/gh/Mycutefox-bot/fox@main/img/image1.webp)
 
@@ -28,5 +29,6 @@
 
 > 如果您想要抢先体验狐狐伯特的功能，请加入狐狐伯特的
 <a href="https://qm.qq.com/q/OsR4DYFYac">QQ小窝群</a>
+
 
 
