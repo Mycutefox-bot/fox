@@ -44,10 +44,6 @@
       "link": "gugu.md"
     },
     {
-      "title": "-⚙管理员守则",
-      "link": "op_rules.md"
-    },
-    {
       "title": "🎁鸣谢名单",
       "children": [
         {
@@ -56,13 +52,14 @@
         },
         {
           "title": "赞助说明",
-          "link": "mi.md"
+          "link":"mi.md"
         }
        ]
     }
 
-     ]
+  ]
 }
+
 
 
 
