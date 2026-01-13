@@ -22,10 +22,13 @@
 
 - 雪球Bqiu提供的 [EasyWIKI](https://github.com/Snowball-Bqiu/easywiki)
 
+- [艺方像素](yfvoxel.flowus.cn)对狐狐伯特项目的 **支持与赞助**
+
 -----------------
 
 ### 解释
 
 > LLM为Large Language Model（大语言模型）的缩写，简称LLM，也就是狐狐伯特的驱动内核（灵魂）
+
 
 
